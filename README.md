@@ -1,5 +1,6 @@
 # Customer Segmentation :family: :family: :family:
-__Cluster analysis__ to segment customers in an American shopping mall.
+### this repository contains files related to a cluster analysis project to segment customers in a U.S. shopping mall.
+
 
 The following paper is divided into three parts:
 1. preliminary exploratory analysis
